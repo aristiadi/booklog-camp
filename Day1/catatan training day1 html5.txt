@@ -1,0 +1,28 @@
+html5
+jade - scss saas -
+->salah satu bahasa pemrograman juga
+->diatasnya hacker yaitu geek pake ini -___-''
+
+
+cara make git gmn?
+
+https://www.coursera.org/course/startup
+
+getbootstrap.com
+
+
+##Use emet on subleme
+
+1. install package page
+1.1 visit http://sublime.wbond.net/installation
+1.2 ctrl + '
+1.3 copy and paste install command, then enter'
+
+
+
+2. install emmet
+2.1 ctrl + shift + p
+2.2 type 'package control: install package'
+2.3 type 'emmet'
+2.4 restart sublime after installed
+2.5 happy coding

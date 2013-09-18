@@ -1,0 +1,25 @@
+Day 1: project booklog
+
+### 1. install node.js
+
+http://nodejs.org
+
+
+### 2. install jade
+
+npm install jade --global
+
+*npm* is a command line tool from nodejs
+
+
+### 3. must have jQuery installed along with Bootstrap
+
+
+
+# git flow
+-create repo
+
+
+# load page
+load whole page (DOM) first then load js
+itulah mengapa tarus script js di terakhir sebelum body
