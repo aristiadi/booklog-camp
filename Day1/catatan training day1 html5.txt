@@ -26,3 +26,7 @@ getbootstrap.com
 2.3 type 'emmet'
 2.4 restart sublime after installed
 2.5 happy coding
+
+
+3. install html2jade
+3.1 npm install --global html2jade

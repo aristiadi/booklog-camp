@@ -2,14 +2,15 @@ Day 1: project booklog
 
 ### 1. install node.js
 
-http://nodejs.org
+- http://nodejs.org
 
 
 ### 2. install jade
 
-npm install jade --global
+- npm install jade --global
 
 *npm* is a command line tool from nodejs
+- jade --help
 
 
 ### 3. must have jQuery installed along with Bootstrap
@@ -23,3 +24,8 @@ npm install jade --global
 # load page
 load whole page (DOM) first then load js
 itulah mengapa tarus script js di terakhir sebelum body
+
+
+1. HTML
+2. Jade
+3. 
